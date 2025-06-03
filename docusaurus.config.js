@@ -50,7 +50,7 @@ const config = {
           position: 'right',
         },
         {
-          to: "docs/国产自拍/国产自拍",
+          to: "docs/国产自拍/国产自拍-intro",
           label: "国产自拍",
           position: "right",
          
@@ -60,11 +60,7 @@ const config = {
           label: "网红主播",
           position: "right",
         },
-        {
-          to: "docs/钱包/火币",
-          label: "钱包",
-          position: "right",
-        },
+        
         {
           to: "docs/VPN软件/艾林克",
           label: "VPN软件",
