@@ -50,14 +50,14 @@ const config = {
           position: 'right',
         },
         {
-          to: "docs/国产自拍/国产自拍-intro",
+          to: "docs/国产自拍/国产自拍",
           label: "国产自拍",
           position: "right",
          
         },
         {
-          to: "docs/投资项目/投资项目-intro",
-          label: "投资项目",
+          to: "docs/国产自拍/网红主播",
+          label: "网红主播",
           position: "right",
         },
         {
