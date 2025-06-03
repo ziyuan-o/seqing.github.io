@@ -9,12 +9,9 @@
  */
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
-  新人必看:{
-    前言: ["新人必看/新人必看-intro",
-           "新人必看/从哪里开始",
-           "新人必看/常见问题",
-           "新人必看/投资词典",
-           "新人必看/投资的金科玉律"
+  国产自拍:{
+    前言: ["国产自拍/国产自拍-intro"
+           
     ]
   },
   投资项目:{

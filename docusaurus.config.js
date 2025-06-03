@@ -50,8 +50,8 @@ const config = {
           position: 'right',
         },
         {
-          to: "docs/新人必看/新人必看-intro",
-          label: "新人必看",
+          to: "docs/国产自拍/国产自拍-intro",
+          label: "国产自拍",
           position: "right",
          
         },
