@@ -3,6 +3,8 @@ id: 国产自拍-intro
 title: 国产自拍前言
 sidebar_label: 写在前面
 ---
+import ReactPlayer from 'react-player'
+
 
 ![](https://img.bobojizy.org/upload/vod/20250406-1/3490d5061cdfc13a8700ea5e603a9b1b.JPG)
 
@@ -12,7 +14,7 @@ sidebar_label: 写在前面
 
 更新时间：2025-04-06
 
-### [点击观看](https://jiexi.semaozy.cc/m3u8/?url=https://bf3.qrtuv.com/smv1/202504/05/QbHHyQ6unp2/video/index.m3u8)
+<ReactPlayer playing controls url='https://bf3.qrtuv.com/smv1/202504/05/QbHHyQ6unp2/video/index.m3u8' />
 
 
 ![](https://img.bobojizy.org/upload/vod/20250405-1/a37807f768d79ce5697d70319b367916.jpg)
