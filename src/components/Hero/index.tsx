@@ -90,7 +90,7 @@ function Hero() {
             id="homepage.hero.look"
             values={{
               note: (
-                <Link to="docs/OnlineVideo/OnlineVideo-intro">
+                <Link to="docs/OnlineVideo">
                   <Translate id="hompage.hero.note">在线视频</Translate>
                 </Link>
               ),
@@ -100,7 +100,7 @@ function Hero() {
                 </Link>
               ),
               link: (
-                <Link to="docs/daohang/daohang-intro">
+                <Link to="docs/daohang">
                   <Translate id="hompage.hero.link">导航站</Translate>
                 </Link>
               ),
