@@ -55,42 +55,45 @@ const config = {
           position: "right",
           
         },
-        
         {
-          label: "软件仓库",
+          to: 'docs/OnlineVideo/Anchor/OnlineVideo-Anchor',
+          label: "网红主播",
           position: "right",
-          items: [
-            {
-              label: 'VPN软件',
-              to: 'docs/软件仓库/VPN软件/vpn',
-            },
-            {
-              label: 'win软件',
-              to: 'docs/软件仓库/win软件/windows',
-            },
-            {
-              label: '安卓软件',
-              to: 'docs/软件仓库/安卓软件/Android',
-            },
-            
-          ],
+          
         },
         {
-          label: "休闲专区",
+          to: 'docs/OnlineVideo/OnlineVideo-Level3',
+          label: "三级伦理",
+          position: "right",
+          
+        },
+        {
+          to: 'docs/daohang',
+          label: "导航站",
+          position: "right",
+          
+        },
+        {
+          label: "其它",
           position: "right",
           items: [
             {
-              label: 'VIP视频解析',
-              to: 'docs/休闲专区/vip-video',
+              label: 'HYIP',
+              to: 'docs/qita/qita-hyip',
+            },
+            {
+              label: 'vpn软件',
+              to: 'docs/vpn',
+            },
+            {
+              label: 'VIP解析',
+              to: 'docs/qita/vip-video',
             },
             {
               label: 'm3u8播放器',
-              to: 'docs/休闲专区/M3U8-video',
+              to: 'docs/qita/M3U8-video',
             },
-            {
-              label: '黄色视频',
-              to: 'docs/休闲专区/黄色视频/yellow-intro',
-            }
+            
             
           ],
           
