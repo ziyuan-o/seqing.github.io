@@ -57,9 +57,10 @@ html[data-theme='dark'] .bloghome__intro > p {
   justify-items: center;
 }
 
+//改主页svg尺寸
 .bloghome__image svg {
   width: 100%;
-  height: auto;
+  height: length;
 }
 
 :global(.hero_main_svg__js) g,

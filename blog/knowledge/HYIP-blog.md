@@ -1,9 +1,10 @@
 ---
-id: qita-hyip
+slug: HYIP投资
 title: HYIP投资
-sidebar_label: HYIP投资
 date: 2025-06-23
-authors: XB
+author: HYIP
+author_title: XB博客
+author_image_url: /img/logo.png
 tags: [XB, 投资]
 keywords: [XB, 投资]
 ---
@@ -15,10 +16,10 @@ keywords: [XB, 投资]
 ### 这是博主搭建的另一个博客，放心访问😎
 :::
 
-![](hyip.assets/image-hyip1.png)
-![](hyip.assets/image-hyip2.png)
-![](hyip.assets/image-hyip3.png)
-![](hyip.assets/image-hyip4.png)
+![](hyip.asset/image-hyip1.png)
+![](hyip.asset/image-hyip2.png)
+![](hyip.asset/image-hyip3.png)
+![](hyip.asset/image-hyip4.png)
 
 
 

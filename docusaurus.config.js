@@ -3,17 +3,17 @@ const path = require('path')
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   onBrokenLinks: 'ignore',
-  title: '资源挖掘博客',
+  title: 'XB博客',
   titleDelimiter: '-',
   url: 'http://www.zy-wan.com',
   baseUrl: '/',
-  favicon: 'https://pic1.imgdb.cn/item/6806ab1758cb8da5c8bd377f.jpg',
+  favicon: 'img/favicon.ico',
   organizationName: 'jl',
   projectName: 'blog',
   tagline: '挖掘数据爱好者',
   /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
   themeConfig: {
-    image: 'https://pic1.imgdb.cn/item/6806ab1758cb8da5c8bd377f.jpg',
+    image: 'img/logo.png',
     colorMode: {
       defaultMode: 'dark',
       disableSwitch: false,
@@ -22,7 +22,7 @@ const config = {
     metadata: [
       {
         name: 'keywords',
-        content: '资源挖掘博客',
+        content: 'XB博客',
       },
       
       {
@@ -36,11 +36,11 @@ const config = {
       },
     },
     navbar: {
-      title: '资源挖掘博客',
+      title: 'XB博客',
       logo: {
-        alt: '资源挖掘博客',
-        src: 'https://pic1.imgdb.cn/item/6806ab1758cb8da5c8bd377f.jpg',
-        srcDark: 'https://pic1.imgdb.cn/item/6806ab1758cb8da5c8bd377f.jpg',
+        alt: 'XB博客',
+        src: 'img/logo.webp',
+        srcDark: 'img/logo.webp',
       },
       hideOnScroll: true,
       items: [
@@ -105,82 +105,58 @@ const config = {
       links: [
         
         {
-          title: '赚钱资源',
+          title: '在线视频',
           items: [
             {
-              label: 'APP赚钱',
-              to: 'docs/money/APP赚钱/app-intro',
+              label: '网红主播',
+              to: 'docs/OnlineVideo/Anchor/OnlineVideo-Anchor',
             },
             {
-              label: 'HYIP',
-              to: 'docs/money/HYIP/hyip-intro',
-            }
+              label: '国产自拍',
+              to: 'docs/OnlineVideo/OnlineVideo-Selfie',
+            },
+            {
+              label: '探花系列',
+              to: 'docs/OnlineVideo/OnlineVideo-Tanhua',
+            },
+            {
+              label: '三级伦理',
+              to: 'docs/OnlineVideo/OnlineVideo-Level3',
+            },
           ]
         },
         
         {
-          title: '软件仓库',
+          title: '其它',
           items: [
             {
-              label: 'VPN软件',
-              to: 'docs/软件仓库/VPN软件/vpn',
+              label: 'HYIP',
+              to: 'docs/qita/qita-hyip',
             },
             {
-              label: 'win软件',
-              to: 'docs/软件仓库/win软件/windows',
+              label: 'vpn软件',
+              to: 'docs/VPN/vpn-what',
             },
             {
-              label: '安卓软件',
-              to: 'docs/软件仓库/安卓软件/Android',
+              label: 'VIP视频解析',
+              to: 'docs/qita/vip-video',
             },
           ],
         },
         {
-          title: '休闲专区',
+          title: '导航站',
           items: [
             {
-              label: 'VIP视频解析',
-              to: 'docs/休闲专区/vip-video',
+              label: '导航站',
+              to: 'docs/daohang/daohang-intro',
             },
-            {
-              label: 'm3u8播放器',
-              to: 'docs/休闲专区/M3U8-video',
-            },
-            {
-              label: '黄色视频',
-              to: 'docs/休闲专区/黄色视频/yellow-intro',
-            }
            
           ],
         },
         
-        {
-          title: '联系博客',
-          items: [
-            {
-              label: 'QQ群:733580353',
-              to: '/',
-            },
-            {
-              label: 'QQ:3812263050',
-              to: '/',
-            },
-            
-           
-          ],
-        },
-        {
-          title: '友情链接',
-          items: [
-            {
-              label: '鲸落',
-              position: 'right',
-              href: 'http://www.xiaojunnan.cn/',
-            }
-          ],
-        },
+        
       ],
-      copyright:  `Copyright © ${new Date().getFullYear()} 资源挖掘博客<p><a href="/" class="footer_lin">都是网上收集的资源，如有侵权联系博主删除！</a></p>`,
+      copyright:  `Copyright © ${new Date().getFullYear()} XB博客<p><a href="/" class="footer_lin">都是网上收集的资源，如有侵权联系博主删除！</a></p>`,
     },
     prism: {
       theme: require('prism-react-renderer/themes/vsLight'),
@@ -248,7 +224,7 @@ const config = {
       tagName: 'meta',
       attributes: {
         name: 'description',
-        content: '资源挖掘博客',
+        content: 'XB博客',
       },
     },
   ],
@@ -292,7 +268,7 @@ const config = {
         editUrl: ({ locale, blogDirPath, blogPath, permalink }) =>
           `https://github.com/xiaojunnanya/blog`,
         editLocalizedFiles: false,
-        blogDescription: '资源挖掘博客',
+        blogDescription: 'XB博客',
         blogSidebarCount: 10,
         blogSidebarTitle: '最近更新',
         postsPerPage: 10,
@@ -301,8 +277,8 @@ const config = {
           defaultReadingTime({ content, options: { wordsPerMinute: 300 } }),
         feedOptions: {
           type: 'all',
-          title: '资源挖掘博客',
-          copyright: `Copyright © ${new Date().getFullYear()} 资源挖掘博客<p><a href="/" class="footer_lin">暂无</a></p>`,
+          title: 'XB博客',
+          copyright: `Copyright © ${new Date().getFullYear()} XB博客<p><a href="/" class="footer_lin">暂无</a></p>`,
         },
       },
     ],

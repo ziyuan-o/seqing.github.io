@@ -2,7 +2,7 @@
 id: vip-video
 title: vip视频解析
 sidebar_label: vip视频解析
-ate: 2025-06-23
+date: 2025-06-23
 authors: XB
 tags: [XB, 解析]
 keywords: [XB, 解析]

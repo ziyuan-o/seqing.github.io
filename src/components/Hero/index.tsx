@@ -77,12 +77,12 @@ function Hero() {
         <animated.div style={trails[0]} className={styles.hero_text}>
           <Translate id="homepage.hero.greet">你好! 我是</Translate>
           <span className={styles.intro__name}>
-            <Translate id="homepage.hero.name">资源挖掘博客</Translate>
+            <Translate id="homepage.hero.name">XB博客</Translate>
           </span>
         </animated.div>
         <animated.p style={trails[1]}>
           <Translate id="homepage.hero.text">
-            {`有很多资源都各种套路收费，对于囊中羞涩的伙伴来说能免费的最好，这里免费分享各种资源。`}
+            {`市面上大多数都是广告太多,体验感差。本站纯绿色，不放广告,体验感好。`}
           </Translate>
           <br />
           <br />
@@ -90,18 +90,18 @@ function Hero() {
             id="homepage.hero.look"
             values={{
               note: (
-                <Link to="docs/money/HYIP/hyip-intro">
-                  <Translate id="hompage.hero.note">HYIP</Translate>
+                <Link to="docs/OnlineVideo/OnlineVideo-intro">
+                  <Translate id="hompage.hero.note">在线视频</Translate>
                 </Link>
               ),
               project: (
-                <Link to="docs/休闲专区/黄色视频/yellow-video">
-                  <Translate id="hompage.hero.project">黄色视频</Translate>
+                <Link to="docs/OnlineVideo/Anchor/OnlineVideo-Anchor">
+                  <Translate id="hompage.hero.project">网红主播</Translate>
                 </Link>
               ),
               link: (
-                <Link to="docs/软件仓库/win软件/win-game">
-                  <Translate id="hompage.hero.link">win游戏</Translate>
+                <Link to="docs/daohang/daohang-intro">
+                  <Translate id="hompage.hero.link">导航站</Translate>
                 </Link>
               ),
               idea: (

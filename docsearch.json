@@ -1,5 +1,5 @@
 {
-  "index_name": "资源挖掘博客",
+  "index_name": "XB博客",
   "start_urls": [""],
   "sitemap_urls": [""],
   "selectors": {
