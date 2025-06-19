@@ -82,6 +82,10 @@ const config = {
               to: 'docs/qita/qita-hyip',
             },
             {
+              label: '赌场',
+              to: 'docs/casino',
+            },
+            {
               label: 'vpn软件',
               to: 'docs/vpn',
             },
@@ -132,6 +136,10 @@ const config = {
             {
               label: 'HYIP',
               to: 'docs/qita/qita-hyip',
+            },
+            {
+              label: '娱乐赌场',
+              to: 'docs/casino',
             },
             {
               label: 'vpn软件',

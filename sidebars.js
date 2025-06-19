@@ -18,6 +18,7 @@ const sidebars = {
     'OnlineVideo/OnlineVideo-Tanhua',
     'OnlineVideo/OnlineVideo-Media',
     'OnlineVideo/OnlineVideo-cartoon',
+    'OnlineVideo/OnlineVideo-SouthKorea',
     {
       label: '网红主播',
       type: 'category',
@@ -36,14 +37,25 @@ const sidebars = {
 
   //导航页
   daohang: [
-    'daohang/daohang-intro'
+    'daohang/daohang-intro',
+    'daohang/daohang-avjb'
   ],
 
   //其它
   qita: [
     'qita/qita-hyip',
-
-    
+    {
+      label: '娱乐赌场',
+      type: 'category',
+      link: {
+        type: 'generated-index',
+      },
+      items: [
+        'casino/casino-intro',
+        'casino/casino-navigation',
+      ],
+    },
+    //VPN软件
     {
       label: 'vpn软件',
       type: 'category',
