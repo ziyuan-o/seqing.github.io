@@ -50,20 +50,10 @@ const config = {
           position: 'right',
         },
         {
-          label: "赚钱资源",
+          to: 'docs/OnlineVideo',
+          label: "在线视频",
           position: "right",
-          items: [
-            {
-              label: 'APP赚钱',
-              to: 'docs/money/APP赚钱/app-intro',
-            },
-            {
-              label: 'HYIP',
-              to: 'docs/money/HYIP/hyip-intro',
-            },
-            
-            
-          ],
+          
         },
         
         {

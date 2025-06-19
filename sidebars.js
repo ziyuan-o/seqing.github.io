@@ -136,7 +136,30 @@ const sidebars = {
       ],
     }
     
-  ]
+  ],
+  //在线视频
+  OnlineVideo: [
+    'OnlineVideo/OnlineVideo-intro',
+    'OnlineVideo/OnlineVideo-Selfie',
+    'OnlineVideo/OnlineVideo-Level3',
+    'OnlineVideo/OnlineVideo-Tanhua',
+    'OnlineVideo/OnlineVideo-Media',
+    'OnlineVideo/OnlineVideo-cartoon',
+    {
+      label: '网红主播',
+      type: 'category',
+      link: {
+        type: 'generated-index',
+      },
+      items: [
+        'OnlineVideo/Anchor/OnlineVideo-Anchor',
+        'OnlineVideo/Anchor/Anchor-Dollsister',
+        'OnlineVideo/Anchor/Anchor-Kitty',
+        'OnlineVideo/Anchor/Anchor-Ashe',
+      ],
+    },
+
+  ],
  
   }
 
