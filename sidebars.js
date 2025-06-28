@@ -44,17 +44,7 @@ const sidebars = {
   //其它
   qita: [
     'qita/qita-hyip',
-    {
-      label: '娱乐赌场',
-      type: 'category',
-      link: {
-        type: 'generated-index',
-      },
-      items: [
-        'casino/casino-intro',
-        'casino/casino-navigation',
-      ],
-    },
+
     //VPN软件
     {
       label: 'vpn软件',
@@ -72,6 +62,23 @@ const sidebars = {
     'qita/vip-video',
     'qita/M3U8-video',
 
+  ],
+
+  //娱乐赌场
+  casino: [
+    'casino/casino-intro',
+    'casino/casino-navigation',
+    {
+      label: 'gamdom',
+      type: 'category',
+      link: {
+        type: 'generated-index',
+      },
+      items: [
+        'casino/gamdom/casino-gamdom',
+
+      ],
+    },
   ],
  
   }
