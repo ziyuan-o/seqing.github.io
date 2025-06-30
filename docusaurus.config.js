@@ -143,7 +143,7 @@ const config = {
             },
             {
               label: 'vpn软件',
-              to: 'docs/VPN/vpn-what',
+              to: 'docs/VPN',
             },
             {
               label: 'VIP视频解析',
@@ -156,7 +156,7 @@ const config = {
           items: [
             {
               label: '导航站',
-              to: 'docs/daohang/daohang-intro',
+              to: 'docs/daohang',
             },
            
           ],

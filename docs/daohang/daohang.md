@@ -8,6 +8,10 @@ authors: XB
 tags: [XB, 导航]
 keywords: [XB, 导航]
 ---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 :::tip
 ## 本页收集的都是其它XX站
 
@@ -16,41 +20,116 @@ keywords: [XB, 导航]
 
 
 ### 在线免费看视频
-1. [四虎影院](hhttps://d755e7.com) 
-2. [国产高清视频](https://cold-plan-farm.sexav-101.com/) 
-3. [极上双穴](https://jssx99.com/)  
-4. [4K超清sdr](https://www.mdccm14.buzz/) 
-5. [高清无码4K](https://www.mtav51.buzz/) 
-6. [顶级国产](https://jznl-ien1naebo-jznl.qoqavideo7y5m4.xyz/aovaov) 
-7. [黑神话](https://www.hshua.xyz/) 
-8. [女澡堂影院](https://nztyy31222.cfd/) 
-9. [妈妈与儿子](https://mmera1.mmer69.top/open/) 
-10. [91仓库](https://91cangku119.buzz/) 
-11. [52呱呱](https://mf.52gggg69.xyz/)
-12. [Pornlulu](https://www.lyyyds.com/)
+#### thisav
+![](daohang.assets/image-thisav.png)
+
+<Tabs className="unique-tabs">
+
+  <TabItem value="链接1">
+  <a href="https://thisav.biz/">点击访问1</a></TabItem>
+  
+</Tabs>
+
+---
+ #### japan-whore
+![](daohang.assets/image-japan.png)
+
+<Tabs className="unique-tabs">
+
+  <TabItem value="链接1">
+  <a href="https://japan-whores.com/">点击访问1</a></TabItem>
+  
+</Tabs>
+
+---
+ #### senzuri
+![](daohang.assets/image-senzuri.png)
+
+<Tabs className="unique-tabs">
+
+  <TabItem value="链接1">
+  <a href="https://senzuri.tube/">点击访问1</a></TabItem>
+  
+</Tabs>
+
+---
+
+#### XVideoS中文版
+![](daohang.assets/image-xvideos.png)
+
+<Tabs className="unique-tabs">
+
+  <TabItem value="链接1">
+  <a href="https://xvdizhi8.sbs/">点击访问1</a></TabItem>
+  <TabItem value="链接2"><a href="https://xvdizhi9.sbs/">点击访问2</a></TabItem>
+  <TabItem value="链接3"><a href="https://xvdizhi6.sbs/">点击访问3</a></TabItem>
+  <TabItem value="网址页"><a href="https://xvdizhi28.top/dizhi/?change-domain-name">点击访问</a></TabItem>
+</Tabs>
+
+---
+#### 四虎影院
+![](daohang.assets/image-4hu.png)
+
+<Tabs className="unique-tabs">
+
+  <TabItem value="链接1">
+  <a href="https://d48bd.com">点击访问1</a></TabItem>
+  <TabItem value="链接2"><a href="https://694b1c.com">点击访问2</a></TabItem>
+  <TabItem value="链接3"><a href="https://5b834.com/">点击访问3</a></TabItem>
+  <TabItem value="链接4"><a href="https://4hudizhi500.com">点击访问4</a></TabItem>
+</Tabs>
+
+---
+#### 女澡堂影院
+![](daohang.assets/image-zaotang.png)
+
+<Tabs className="unique-tabs">
+
+  <TabItem value="链接1">
+  <a href="https://nztyy31222.cfd/">点击访问1</a></TabItem>
+  
+</Tabs>
+
+---
+ #### 91仓库
+![](daohang.assets/image-91cangku.png)
+
+<Tabs className="unique-tabs">
+
+  <TabItem value="链接1">
+  <a href="https://91cangku119.buzz/">点击访问1</a></TabItem>
+  <TabItem value="链接2">
+  <a href="https://91仓库.xyz">点击访问2</a></TabItem>
+</Tabs>
+
+---
+ #### 52呱呱
+![](daohang.assets/image-52gua.png)
+
+<Tabs className="unique-tabs">
+
+  <TabItem value="链接1">
+  <a href="https://mf.52gggg69.xyz/">点击访问1</a></TabItem>
+  
+</Tabs>
+
+---
+ #### 无限臀山
+![](daohang.assets/image-bishan.png)
+
+<Tabs className="unique-tabs">
+
+  <TabItem value="链接1">
+  <a href="https://wxts.wuxiants401.com/">点击访问1</a></TabItem>
+  <TabItem value="链接2">
+  <a href="https://wxts.wuxiants481.com/">点击访问2</a></TabItem>
+   <TabItem value="链接3">
+  <a href="https://wxts.wuxiants482.com/">点击访问3</a></TabItem>
+  <TabItem value="网址页">
+  <a href="https://wuxiants.github.io/">点击访问</a></TabItem>
+</Tabs>
+
+---
 
 
-### 国外名站:
 
-
-
-### APP
-1. [TikTok成人版](https://32c59.ocdxfpo.xyz/)
-2. [Pornhub](https://3443f.clbsaqvt.xyz/)
-3. [50度灰](https://451.qpxqbpmb.xyz/)
-4. [91短视频](https://177.elfmoeyl.xyz/)
-5. [麻豆传媒](https://divarohzadunc.cloudfront.net/)
-6. [海角乱伦](https://476.owquaqpy.xyz/)
-7. [91重口](https://204.nublqmsc.xyz/)
-8. [禁漫天堂](https://d9b9.jtalvee.xyz/)
-
-
-
-### 色情游戏
-1. [工口](https://theporndude.sbkjl.com/)
-2. [真人互动游戏](https://opa.wjgelbub.com/)
-
-
-### 与视讯美女实时在线聊天，观看她们的自慰秀场并给她们打赏小费！
-1. [台湾UU聊天室](https://ju753.com/)
-2. [真爱旅社](https://e.ub342.com/)
