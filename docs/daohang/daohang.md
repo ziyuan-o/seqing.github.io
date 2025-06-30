@@ -20,39 +20,7 @@ import TabItem from '@theme/TabItem';
 
 
 ### 在线免费看视频
-#### thisav
-![](daohang.assets/image-thisav.png)
 
-<Tabs className="unique-tabs">
-
-  <TabItem value="链接1">
-  <a href="https://thisav.biz/">点击访问1</a></TabItem>
-  
-</Tabs>
-
----
- #### japan-whore
-![](daohang.assets/image-japan.png)
-
-<Tabs className="unique-tabs">
-
-  <TabItem value="链接1">
-  <a href="https://japan-whores.com/">点击访问1</a></TabItem>
-  
-</Tabs>
-
----
- #### senzuri
-![](daohang.assets/image-senzuri.png)
-
-<Tabs className="unique-tabs">
-
-  <TabItem value="链接1">
-  <a href="https://senzuri.tube/">点击访问1</a></TabItem>
-  
-</Tabs>
-
----
 
 #### XVideoS中文版
 ![](daohang.assets/image-xvideos.png)
