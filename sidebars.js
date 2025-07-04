@@ -19,6 +19,8 @@ const sidebars = {
     'OnlineVideo/OnlineVideo-Media',
     'OnlineVideo/OnlineVideo-cartoon',
     'OnlineVideo/OnlineVideo-SouthKorea',
+    'OnlineVideo/JVID',
+    'OnlineVideo/AI-huan',
     {
       label: '网红主播',
       type: 'category',
