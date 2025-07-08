@@ -21,6 +21,7 @@ const sidebars = {
     'OnlineVideo/OnlineVideo-SouthKorea',
     'OnlineVideo/JVID',
     'OnlineVideo/AI-huan',
+    'OnlineVideo/AI-liqin',
     {
       label: '网红主播',
       type: 'category',
