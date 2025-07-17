@@ -13,6 +13,8 @@ const sidebars = {
   //在线视频
   OnlineVideo: [
     'OnlineVideo/OnlineVideo-intro',
+    'OnlineVideo/yangchaoyue',
+    'OnlineVideo/lun-cn',
     'OnlineVideo/OnlineVideo-Selfie',
     'OnlineVideo/OnlineVideo-Level3',
     'OnlineVideo/OnlineVideo-Tanhua',
